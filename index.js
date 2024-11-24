@@ -3,7 +3,7 @@ const TelegramBot = require("node-telegram-bot-api");
 
 
 (async () => {
-    const bot = new TelegramBot("7667874339:AAGHgXu0NSMaiEgSMQefhBkd9S0x2q5gW8Y", {
+    const bot = new TelegramBot("7693541855:AAH5EYDGj3ts3gfPj0oH_CPg4w8BdfYabjo", {
         polling: true,   
     });
 
